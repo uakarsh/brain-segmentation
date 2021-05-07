@@ -13,26 +13,23 @@
 
 ## About the Project:
 
-Problem : Question Answering for the Medical Images 
-- [Data](https://www.nature.com/articles/sdata2018251)
-- [Stacked Attention Network](https://arxiv.org/pdf/1511.02274.pdf)
-- [Slides for Stacked Attention Network](http://www.cs.virginia.edu/~vicente/vislang/slides/wasimonica.pdf)
+Problem : Brain Tumor Detection (Classification as well as Segementation)
+- [Data](https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation)
 
-Implementation: I have taken inspiration from [Stacked Attention Network](https://arxiv.org/pdf/1511.02274.pdf), and the slides as mentioned above, and implemented in Tensorflow 2.0, however, I have made some changes, because I did not understand those things, will improve in the near future.
+Implementation: I have taken inspiration from [Kaggle Dataset](https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation), and implemented in Tensorflow 2.0, and have deployed it using Flask application.
 
 
 ## Setup: 
 
-GOOGLE COLAB:
+LOCAL MACHINE
 What you need to do is: 
 
-Download : 
-
-        1. trainset.json
-        2. testset.json
-        3. VQA Image Folder
-        4. Cache Folder  (contains the pickle file, for converting the answers to labels, and vice versa, and the mapping for dictionary and answer)
-Upload these projects to your google drive, and then follow the instructions that are present in the VQA.ipynb notebook.
+Download the repo:
+                1. Run the app.py file
+                2. Run the index.html file and you are good to go
+                3. For the model designing part, you can go to 'brain-segmentation.ipynb' notebook, which explains all the model outcomes
+                4. image.py contains the function which predicts the output
+                5. In the index.html file, only the prediction is made, i.e whether the brain contains tumour or not (not the segmentation part).
 
 
 ### Connect with me:
@@ -51,9 +48,9 @@ Upload these projects to your google drive, and then follow the instructions tha
 ### 📺 Some of my projects:
 
 <!-- YOUTUBE:START -->
-- [Medical Visual Question Answering (Current Repository)](https://github.com/uakarsh/med-vqa)
+- [Medical Visual Question Answering](https://github.com/uakarsh/med-vqa)
 - [Customer Segmentation (Unsupervised Learning)](https://www.kaggle.com/akarshu121/customer-segmentation/notebook)
-- [Brain MRI Segmentation (Classification and Segmentation)](https://www.kaggle.com/akarshu121/brain-segmentation)
+- [Brain MRI Segmentation (Classification and Segmentation) (Current Repository)](https://www.kaggle.com/akarshu121/brain-segmentation)
 - [Image Classification (Cancer detection)](https://www.youtube.com/watch?v=rXPmjkaTA9A)
 - [Movie Recomendation using Cosine Similarity](https://github.com/uakarsh/Movie-Recommendation-Engine)
 <!-- YOUTUBE:END -->
