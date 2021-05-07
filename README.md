@@ -25,11 +25,11 @@ LOCAL MACHINE
 What you need to do is: 
 
 Download the repo:
-- 1. Run the app.py file
-- 2. Run the index.html file and you are good to go
-- 3. For the model designing part, you can go to 'brain-segmentation.ipynb' notebook, which explains all the model outcomes
-- 4. image.py contains the function which predicts the output
-- 5. In the index.html file, only the prediction is made, i.e whether the brain contains tumour or not (not the segmentation part).
+- Run the app.py file
+- Run the index.html file and you are good to go
+- For the model designing part, you can go to 'brain-segmentation.ipynb' notebook, which explains all the model outcomes
+- image.py contains the function which predicts the output
+- In the index.html file, only the prediction is made, i.e whether the brain contains tumour or not (not the segmentation part).
 
 
 ### Connect with me:
