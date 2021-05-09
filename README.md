@@ -1,16 +1,3 @@
-### Hi there, I'm Akarsh 👋
-
-[Website](https://uakarsh.github.io/AkarshU/)
-[Twitter](https://twitter.com/akarsh1_u)
-
-## I'm a student, a data science enthusiast!!
-
-- 🔭 I am currently looking for an internship (in the field of Data Science and Machine Learning)
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Land an internship in the field of Data Science, and contribute to open sources
-- ⚡ Fun fact: I love to dance and read books
-
 ## About the Project:
 
 Problem : Brain Tumor Detection (Classification as well as Segementation)
