@@ -51,7 +51,7 @@ Download the repo:
 - [Medical Visual Question Answering](https://github.com/uakarsh/med-vqa)
 - [Customer Segmentation (Unsupervised Learning)](https://www.kaggle.com/akarshu121/customer-segmentation/notebook)
 - [Brain MRI Segmentation (Classification and Segmentation) (Current Repository)](https://www.kaggle.com/akarshu121/brain-segmentation)
-- [Image Classification (Cancer detection)](https://www.youtube.com/watch?v=rXPmjkaTA9A)
+- [Image Classification (Cancer detection)](https://github.com/uakarsh/CNN-for-Beginners)
 - [Movie Recomendation using Cosine Similarity](https://github.com/uakarsh/Movie-Recommendation-Engine)
 <!-- YOUTUBE:END -->
 
