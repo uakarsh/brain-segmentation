@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, request, render_template
 from base64 import b64decode, b64encode
-from image import prediction
+from predicting_output import prediction
 import os
 app = Flask(__name__)
 
